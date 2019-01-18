@@ -1,0 +1,28 @@
+img{
+    background-size: cover;
+    max-width: 80%;
+    max-height: 30%;
+    margin: auto;
+}
+.gallery-container{
+    float: left;
+    width: 100%;
+
+}
+.vignette{
+    border: solid 2px black;
+    width: 15%;
+    float: left;
+    margin-left: 2%;
+    padding-top: 0.5%;
+
+}
+    .vignette img{
+        display: block;
+        margin: auto;
+        border: solid 2px black;
+    }
+    .vignette p{
+        color: black;
+        text-align: center;
+    }
